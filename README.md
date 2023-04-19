@@ -27,3 +27,6 @@ https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset
 
 ## Architecture Diagram
 <img src="architecture.jpeg">
+
+## Result Dashboard with QuickSight
+<img src="Result_BI.jpg">
